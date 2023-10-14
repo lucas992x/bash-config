@@ -1,0 +1,2 @@
+# custom color scheme for terminal (Arch)
+export custom_ps1='\[\033[36m\]\u\[\033[97m\]@\[\033[36m\]\h \[\033[97m\]\W \[\033[36m\]\$\[\033[97m\] '

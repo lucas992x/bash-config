@@ -1,0 +1,3 @@
+# directories added to PATH
+export PATH=$shdir2:$PATH
+export PATH=$shdir:$PATH

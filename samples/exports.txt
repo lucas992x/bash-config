@@ -1,0 +1,7 @@
+# cloned repos directories
+export gitdir=$HOME/git
+export shdir2=$gitdir/bash-utils
+export pwbdir=$gitdir/pwbot
+# other code directories
+export codedir=$HOME/code
+export shdir=$codedir/shell
